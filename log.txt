@@ -138,3 +138,713 @@ preview song: https://p.scdn.co/mp3-preview/46145f46a9246e10f645929311a5a5ce8bd0
 album: Greatest Hits
 artist(s): Foo Fighters
 *****************************
+SONG INFO
+0
+song name: bad guy
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+1
+song name: when the party's over
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+2
+song name: bury a friend
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+3
+song name: lovely (with Khalid)
+preview song: null
+album: lovely (with Khalid)
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+4
+song name: i love you
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+5
+song name: wish you were gay
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+6
+song name: you should see me in a crown
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+7
+song name: idontwannabeyouanymore
+preview song: null
+album: dont smile at me
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+8
+song name: my strange addiction
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+9
+song name: xanny
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+10
+song name: BILLY
+preview song: null
+album: Day69: Graduation Day
+artist(s): 6ix9ine
+*****************************
+SONG INFO
+11
+song name: ocean eyes
+preview song: null
+album: dont smile at me
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+12
+song name: bad guy (with Justin Bieber)
+preview song: null
+album: bad guy (with Justin Bieber)
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+13
+song name: all the good girls go to hell
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+14
+song name: listen before i go
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+15
+song name: bellyache
+preview song: null
+album: Bellyache
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+16
+song name: ilomilo
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+17
+song name: my boy
+preview song: null
+album: dont smile at me
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+18
+song name: COPYCAT
+preview song: null
+album: dont smile at me
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+19
+song name: 8
+preview song: null
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
+artist(s): Billie Eilish
+*****************************
+SONG INFO
+0
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/f504e6b8e037771318656394f532dede4f9bcaea?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+1
+song name: Beat It - Single Version
+preview song: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+2
+song name: Thriller
+preview song: https://p.scdn.co/mp3-preview/9f288fba4d3380b1ae25e7f88a2054d7fac0bf2d?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Scream
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+3
+song name: P.Y.T. (Pretty Young Thing)
+preview song: https://p.scdn.co/mp3-preview/575230ca230ab7a79f1b2980e303d7f1612073f3?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+4
+song name: Thriller
+preview song: https://p.scdn.co/mp3-preview/dd0621b7f11364a37c96031dbedbca6b88dbfa7d?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+5
+song name: Thriller
+preview song: https://p.scdn.co/mp3-preview/0b62db54da539b34856448e509c30ce4601931f5?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Michael Jackson's This Is It
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+6
+song name: P.Y.T. (Pretty Young Thing)
+preview song: https://p.scdn.co/mp3-preview/4b919442d00292086ab30277534cb6f64564c160?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+7
+song name: Thriller
+preview song: https://p.scdn.co/mp3-preview/e87c95de42eecbed85b08021e3125833ed31ae98?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+8
+song name: Thriller - 2003 Edit
+preview song: https://p.scdn.co/mp3-preview/ff3fdb30e2997ac3959016392e0f9418dee79780?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Number Ones
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+9
+song name: Thriller
+preview song: null
+album: Infinity On High
+artist(s): Fall Out Boy
+*****************************
+SONG INFO
+10
+song name: Human Nature
+preview song: https://p.scdn.co/mp3-preview/a02a6ddf6152b09f9b9dd456a2edf484b0377f7c?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+11
+song name: Wanna Be Startin' Somethin'
+preview song: https://p.scdn.co/mp3-preview/d18b4563e3d177024867161d7be84baa844ecfc9?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+12
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/fdfa0fe346a16b6aeb8136e6d2b7e11cacc6a06d?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+13
+song name: Thriller - Single Version
+preview song: https://p.scdn.co/mp3-preview/41d3639dcb9fa25f07fb849730718a62538c6237?cid=09ef97951e5b43f2bee73579a8983ba2
+album: The Essential Michael Jackson
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+14
+song name: Human Nature
+preview song: https://p.scdn.co/mp3-preview/d13c6034c6c9eddab4ef188a2da87201b71767aa?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+15
+song name: The Lady in My Life
+preview song: https://p.scdn.co/mp3-preview/6d1d47e76fef766db4b73955d4b20f4d9124e8f6?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+16
+song name: Beat It - Single Version
+preview song: https://p.scdn.co/mp3-preview/1c1b574766d6cacb669cd3e9b9309b9f5ed2b6e3?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+17
+song name: Baby Be Mine
+preview song: https://p.scdn.co/mp3-preview/8111b373a3a9cd14542865eb63d2396bca8ff72f?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+18
+song name: Wanna Be Startin' Somethin'
+preview song: https://p.scdn.co/mp3-preview/32f62861fdc3066ecb5545c56a330d8d6e9a09b2?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+19
+song name: The Girl Is Mine (with Paul McCartney)
+preview song: https://p.scdn.co/mp3-preview/716bce19276b193e2e937ce4da41855db007d971?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+0
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/f504e6b8e037771318656394f532dede4f9bcaea?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+1
+song name: Beat It - Single Version
+preview song: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+2
+song name: Thriller
+preview song: https://p.scdn.co/mp3-preview/9f288fba4d3380b1ae25e7f88a2054d7fac0bf2d?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Scream
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+3
+song name: P.Y.T. (Pretty Young Thing)
+preview song: https://p.scdn.co/mp3-preview/575230ca230ab7a79f1b2980e303d7f1612073f3?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+4
+song name: Thriller
+preview song: https://p.scdn.co/mp3-preview/dd0621b7f11364a37c96031dbedbca6b88dbfa7d?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+5
+song name: Thriller
+preview song: https://p.scdn.co/mp3-preview/0b62db54da539b34856448e509c30ce4601931f5?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Michael Jackson's This Is It
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+6
+song name: P.Y.T. (Pretty Young Thing)
+preview song: https://p.scdn.co/mp3-preview/4b919442d00292086ab30277534cb6f64564c160?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+7
+song name: Thriller
+preview song: https://p.scdn.co/mp3-preview/e87c95de42eecbed85b08021e3125833ed31ae98?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+8
+song name: Thriller - 2003 Edit
+preview song: https://p.scdn.co/mp3-preview/ff3fdb30e2997ac3959016392e0f9418dee79780?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Number Ones
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+9
+song name: Thriller
+preview song: null
+album: Infinity On High
+artist(s): Fall Out Boy
+*****************************
+SONG INFO
+10
+song name: Human Nature
+preview song: https://p.scdn.co/mp3-preview/a02a6ddf6152b09f9b9dd456a2edf484b0377f7c?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+11
+song name: Wanna Be Startin' Somethin'
+preview song: https://p.scdn.co/mp3-preview/d18b4563e3d177024867161d7be84baa844ecfc9?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+12
+song name: Billie Jean
+preview song: https://p.scdn.co/mp3-preview/fdfa0fe346a16b6aeb8136e6d2b7e11cacc6a06d?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+13
+song name: Thriller - Single Version
+preview song: https://p.scdn.co/mp3-preview/41d3639dcb9fa25f07fb849730718a62538c6237?cid=09ef97951e5b43f2bee73579a8983ba2
+album: The Essential Michael Jackson
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+14
+song name: Human Nature
+preview song: https://p.scdn.co/mp3-preview/d13c6034c6c9eddab4ef188a2da87201b71767aa?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+15
+song name: The Lady in My Life
+preview song: https://p.scdn.co/mp3-preview/6d1d47e76fef766db4b73955d4b20f4d9124e8f6?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+16
+song name: Beat It - Single Version
+preview song: https://p.scdn.co/mp3-preview/1c1b574766d6cacb669cd3e9b9309b9f5ed2b6e3?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+17
+song name: Baby Be Mine
+preview song: https://p.scdn.co/mp3-preview/8111b373a3a9cd14542865eb63d2396bca8ff72f?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+18
+song name: Wanna Be Startin' Somethin'
+preview song: https://p.scdn.co/mp3-preview/32f62861fdc3066ecb5545c56a330d8d6e9a09b2?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+19
+song name: The Girl Is Mine (with Paul McCartney)
+preview song: https://p.scdn.co/mp3-preview/716bce19276b193e2e937ce4da41855db007d971?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+0
+song name: Beat It - Single Version
+preview song: https://p.scdn.co/mp3-preview/4901df6e0f8bf6ce93e08df7d98a50e220c45799?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Thriller 25 Super Deluxe Edition
+artist(s): Michael Jackson
+*****************************
+SONG INFO
+1
+song name: Here Comes The Sun - Remastered 2009
+preview song: null
+album: Abbey Road (Remastered)
+artist(s): The Beatles
+*****************************
+SONG INFO
+2
+song name: Beat of the Music
+preview song: https://p.scdn.co/mp3-preview/2990273cbb8dc08999c4c73e286c5f654e3bc561?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Bring You Back
+artist(s): Brett Eldredge
+*****************************
+SONG INFO
+3
+song name: Hey Jude - Remastered 2015
+preview song: null
+album: 1 (Remastered)
+artist(s): The Beatles
+*****************************
+SONG INFO
+4
+song name: Come Together - Remastered 2009
+preview song: null
+album: Abbey Road (Remastered)
+artist(s): The Beatles
+*****************************
+SONG INFO
+5
+song name: Titanium (feat. Sia)
+preview song: https://p.scdn.co/mp3-preview/06392eaab5975806f18d8411f5b58f50b1899198?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Nothing But The Beat
+artist(s): David Guetta
+*****************************
+SONG INFO
+6
+song name: Let It Be - Remastered 2009
+preview song: null
+album: Let It Be (Remastered)
+artist(s): The Beatles
+*****************************
+SONG INFO
+7
+song name: Yesterday - Remastered 2009
+preview song: null
+album: Help! (Remastered)
+artist(s): The Beatles
+*****************************
+SONG INFO
+8
+song name: Helena Beat
+preview song: https://p.scdn.co/mp3-preview/488927f6e4eaf736b55d15e0f48669385a972e92?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Torches
+artist(s): Foster The People
+*****************************
+SONG INFO
+9
+song name: Beauty And A Beat
+preview song: null
+album: Believe (Deluxe Edition)
+artist(s): Justin Bieber
+*****************************
+SONG INFO
+10
+song name: I Want To Hold Your Hand - Remastered 2015
+preview song: null
+album: 1 (Remastered)
+artist(s): The Beatles
+*****************************
+SONG INFO
+11
+song name: Twist And Shout - Remastered 2009
+preview song: null
+album: Please Please Me (Remastered)
+artist(s): The Beatles
+*****************************
+SONG INFO
+12
+song name: Titanium (feat. Sia)
+preview song: https://p.scdn.co/mp3-preview/06392eaab5975806f18d8411f5b58f50b1899198?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Nothing But the Beat 2.0
+artist(s): David Guetta
+*****************************
+SONG INFO
+13
+song name: Technicolour Beat
+preview song: null
+album: Oh Wonder
+artist(s): Oh Wonder
+*****************************
+SONG INFO
+14
+song name: In My Life - Remastered 2009
+preview song: null
+album: Rubber Soul (Remastered)
+artist(s): The Beatles
+*****************************
+SONG INFO
+15
+song name: Blackbird - Remastered 2009
+preview song: null
+album: The Beatles (Remastered)
+artist(s): The Beatles
+*****************************
+SONG INFO
+16
+song name: Beat the Devil's Tattoo
+preview song: https://p.scdn.co/mp3-preview/617e3958219b8c6058f2358c23833ac990210f88?cid=09ef97951e5b43f2bee73579a8983ba2
+album: Beat the Devil's Tattoo
+artist(s): Black Rebel Motorcycle Club
+*****************************
+SONG INFO
+17
+song name: Beat A N*gga Block
+preview song: https://p.scdn.co/mp3-preview/b2edf444384336fab00a472218149a0dc2ff4b43?cid=09ef97951e5b43f2bee73579a8983ba2
+album: We All Shine
+artist(s): YNW Melly
+*****************************
+SONG INFO
+18
+song name: Something - Remastered 2009
+preview song: null
+album: Abbey Road (Remastered)
+artist(s): The Beatles
+*****************************
+SONG INFO
+19
+song name: Let The Beat Build
+preview song: null
+album: Tha Carter III
+artist(s): Lil Wayne
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: Austin360 Amphitheater
+Venue Location: Austin
+Date of the Event: 2019-08-03T20:00:00
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Starlight Theatre
+Venue Location: Kansas City
+Date of the Event: 2019-08-06T20:00:00
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: Fiddler's Green Amphitheatre
+Venue Location: Englewood
+Date of the Event: 2019-08-07T20:00:00
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Ak-Chin Pavilion
+Venue Location: Phoenix
+Date of the Event: 2019-08-09T20:00:00
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: House Of Blues Restaurant & Bar
+Venue Location: Las Vegas
+Date of the Event: 2019-08-10T20:00:00
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: Harrahs Resort SoCal The Events Center
+Venue Location: Valley Center
+Date of the Event: 2019-08-11T20:00:00
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: Shoreline Amphitheatre
+Venue Location: Mountain View
+Date of the Event: 2019-08-14T20:00:00
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: ShoWare Center
+Venue Location: Kent
+Date of the Event: 2019-08-17T20:00:00
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Revolution Center
+Venue Location: Garden City
+Date of the Event: 2019-08-18T20:00:00
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Isleta Amphitheater
+Venue Location: Albuquerque
+Date of the Event: 2019-08-20T20:00:00
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Dos Equis Pavilion
+Venue Location: Dallas
+Date of the Event: 2019-08-22T19:00:00
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: The Joy Theater
+Venue Location: New Orleans
+Date of the Event: 2019-08-24T20:00:00
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Tuscaloosa Amphitheater
+Venue Location: Tuscaloosa
+Date of the Event: 2019-08-25T20:00:00
+*****************************
+**********EVENT INFO*********
+13
+Name of the Venue: Cellairis Amphitheatre at Lakewood
+Venue Location: Atlanta
+Date of the Event: 2019-08-26T20:00:00
+*****************************
+**********EVENT INFO*********
+14
+Name of the Venue: Barclays Center
+Venue Location: Brooklyn
+Date of the Event: 2019-08-28T20:00:00
+*****************************
+**********EVENT INFO*********
+15
+Name of the Venue: Royal Farms Arena
+Venue Location: Baltimore
+Date of the Event: 2019-08-29T20:00:00
+*****************************
+**********EVENT INFO*********
+16
+Name of the Venue: Canalside
+Venue Location: Buffalo
+Date of the Event: 2019-08-30T17:00:00
+*****************************
+**********EVENT INFO*********
+17
+Name of the Venue: St. Joseph’s Health Amphitheater at Lakeview
+Venue Location: Syracuse
+Date of the Event: 2019-08-31T20:00:00
+*****************************
+**********EVENT INFO*********
+18
+Name of the Venue: The Xfinity Center
+Venue Location: Mansfield
+Date of the Event: 2019-09-01T19:30:00
+*****************************
+**********EVENT INFO*********
+19
+Name of the Venue: The Liacouras Center
+Venue Location: Philadelphia
+Date of the Event: 2019-09-07T20:00:00
+*****************************
+**********EVENT INFO*********
+20
+Name of the Venue: Prudential Center
+Venue Location: Newark
+Date of the Event: 2019-09-08T20:00:00
+*****************************
+**********EVENT INFO*********
+21
+Name of the Venue: Budweiser Stage
+Venue Location: Toronto
+Date of the Event: 2019-09-10T19:30:00
+*****************************
+**********EVENT INFO*********
+22
+Name of the Venue: Bankers Life Fieldhouse
+Venue Location: Indianapolis
+Date of the Event: 2019-09-12T20:00:00
+*****************************
+**********EVENT INFO*********
+23
+Name of the Venue: Hollywood Bowl
+Venue Location: Los Angeles
+Date of the Event: 2019-09-17T19:30:00
+*****************************
+**********EVENT INFO*********
+24
+Name of the Venue: Arlene Schnitzer Concert Hall
+Venue Location: Portland
+Date of the Event: 2020-03-19T19:30:00
+*****************************
